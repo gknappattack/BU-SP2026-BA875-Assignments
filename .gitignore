@@ -213,3 +213,7 @@ solutions/
 answers/
 In-Class Examples/
 .DS_STORE
+
+# Ignore class related files that should not be uploaded
+*.pdf
+Session**
